@@ -1,0 +1,21 @@
+.barreMenuStyleBas{
+    background-color: #F92828;
+    font-size: 20px ;
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    align-items: center;
+}
+
+a:hover {
+    border-bottom: 1px solid;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,38 @@
+{
+    "article":[
+        {
+            "id":1,
+            "titre": "Un Affrontement Épique sur le Terrain: Récit du Match de Football entre les Titans du FC Alpha et les Challengers du FC Omega",
+            "text":"Dans le monde du football, certains matchs transcendent les simples rencontres sportives pour devenir des moments épiques, des affrontements où la passion, le talent et la détermination se rencontrent sur le terrain. Le récent match entre le FC Alpha et le FC Omega restera gravé dans les mémoires comme l'un de ces moments exceptionnels, où deux équipes se sont affrontées dans une bataille mémorable. L'atmosphère était électrique alors que les supporters des deux équipes remplissaient les gradins, créant un vacarme assourdissant qui enveloppait le stade dans une aura de frénésie. Les joueurs, conscients de l'importance de la rencontre, s'échauffaient sur le terrain avec une intensité palpable, leurs regards rivés sur l'objectif ultime : la victoire. Dès le coup d'envoi, le match a pris une tournure rapide et intense. Le FC Alpha, réputé pour son style de jeu offensif et flamboyant, a immédiatement pris l'initiative, lançant des attaques fulgurantes et mettant la défense du FC Omega sous pression. Cependant, les Challengers du FC Omega, connus pour leur résilience et leur esprit d'équipe, ont tenu bon, repoussant chaque assaut avec détermination. La première mi-temps s'est déroulée dans un équilibre tendu, avec les deux équipes se livrant une bataille acharnée pour prendre l'avantage. Les supporters étaient en effervescence, encourageant leurs équipes respectives avec ferveur, créant ainsi une ambiance électrique dans le stade. Au retour des vestiaires, le FC Alpha a redoublé d'efforts pour prendre l'ascendant. Leurs attaques étaient plus incisives, leurs passes plus précises, mais le FC Omega refusait obstinément de céder du terrain. Chaque tir, chaque dribble, était accompagné d'une tension palpable, alors que les deux équipes se disputaient chaque centimètre carré du terrain. Finalement, c'est dans les dernières minutes du match que le moment décisif est survenu. Alors que le score était toujours bloqué à égalité, le FC Alpha a lancé une dernière offensive désespérée. Dans un mouvement d'une beauté époustouflante, leur attaquant vedette a dribblé plusieurs défenseurs avant de décocher un tir puissant qui a heurté la barre transversale, rebondissant ensuite sur le gardien adverse pour finalement franchir la ligne de but. Les supporters du FC Alpha ont explosé de joie, envahissant le terrain pour célébrer la victoire de leur équipe. Pour le FC Omega, malgré la défaite, il y avait une fierté indéniable dans leur performance, ayant tenu tête à l'une des équipes les plus redoutables de la ligue. Au final, ce match restera gravé dans les annales du football comme un exemple de la passion et de l'engagement que ce sport peut susciter. Que ce soit pour les supporters qui ont vécu chaque moment avec intensité, ou pour les joueurs qui ont tout donné sur le terrain, ce match restera à jamais un souvenir inoubliable de ce que le football représente : un mélange de compétition, de camaraderie et de pure adrénaline."
+        }
+    ],
+    "produit":[
+        {
+            "id":1,
+            "type": "maillot",
+            "nom": "Maillot pro",
+            "description": "Maillot officielle de la saison en cours",
+            "prix": 110,
+            "stock": 12,
+            "image": "chemin"
+        },
+        {
+            "id":1,
+            "type": "maillot",
+            "nom": "Maillot supporter",
+            "description": "Maillot supporter de la saison en cours",
+            "prix": 80,
+            "stock": 12,
+            "image": "chemin"
+        },
+        {
+            "id":1,
+            "type": "casquette",
+            "nom": "casquette de la ville",
+            "description": "Casquette de la ville pour representer votre club",
+            "prix": 30,
+            "stock": 60,
+            "image": "chemin"
+        }
+    ]
+}

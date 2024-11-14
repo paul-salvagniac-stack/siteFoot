@@ -1,0 +1,9 @@
+<div class="actualiteHaut">
+    <img src="assets\img\imageMatch.jpg" alt="logo club"/>
+</div>
+<div  *ngFor="let article of article$ | async">
+    <h1>{{article.titre}}</h1>
+    <p class="resumeMatch">
+        {{article.text}}
+    </p>
+</div>
